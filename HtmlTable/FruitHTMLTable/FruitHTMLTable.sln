@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31727.386
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FruitHTMLTable", "FruitHTMLTable\FruitHTMLTable.csproj", "{44E45365-D26D-44C7-B978-DA29F8A4B503}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{44E45365-D26D-44C7-B978-DA29F8A4B503}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44E45365-D26D-44C7-B978-DA29F8A4B503}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44E45365-D26D-44C7-B978-DA29F8A4B503}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44E45365-D26D-44C7-B978-DA29F8A4B503}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EEE76DEF-689C-405D-A81C-FF67ACBA91E7}
+	EndGlobalSection
+EndGlobal

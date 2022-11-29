@@ -1,0 +1,10 @@
+C:\Users\abahnemann\Desktop\AE2 VS\FruitHTMLTable\FruitHTMLTable\obj\Debug\FruitHTMLTable.csproj.CoreCompileInputs.cache
+C:\Users\abahnemann\Desktop\AE2 VS\FruitHTMLTable\FruitHTMLTable\obj\Debug\FruitHTMLTable.dll
+C:\Users\abahnemann\Desktop\AE2 VS\FruitHTMLTable\FruitHTMLTable\obj\Debug\FruitHTMLTable.pdb
+C:\Users\abahnemann\Desktop\AE2 VS\Obstacle\CustomDLL\FruitHTMLTable.dll
+C:\Users\abahnemann\Desktop\AE2 VS\Obstacle\CustomDLL\FruitHTMLTable.pdb
+C:\Users\abahnemann\Desktop\AE2 VS\CustomDLL\FruitHTMLTable.dll
+C:\Users\abahnemann\Desktop\AE2 VS\CustomDLL\FruitHTMLTable.pdb
+C:\Users\abahnemann\Desktop\AE2 VS\Obstacle\FruitHTMLTable\FruitHTMLTable\obj\Debug\FruitHTMLTable.csproj.CoreCompileInputs.cache
+C:\Users\abahnemann\Desktop\AE2 VS\Obstacle\FruitHTMLTable\FruitHTMLTable\obj\Debug\FruitHTMLTable.dll
+C:\Users\abahnemann\Desktop\AE2 VS\Obstacle\FruitHTMLTable\FruitHTMLTable\obj\Debug\FruitHTMLTable.pdb

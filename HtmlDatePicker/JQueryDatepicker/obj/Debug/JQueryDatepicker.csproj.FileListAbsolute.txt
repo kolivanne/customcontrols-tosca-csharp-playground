@@ -1,0 +1,6 @@
+C:\Users\kavgu\Desktop\obstkl\Solutions\JQueryDatepicker\obj\Debug\JQueryDatepicker.csprojResolveAssemblyReference.cache
+C:\Users\abahnemann\Downloads\Exercise\Exercise\JQueryDatepicker\obj\Debug\JQueryDatepicker.csproj.CoreCompileInputs.cache
+C:\Users\abahnemann\Desktop\AE2 VS\CustomDLL\JQueryDatepicker.dll
+C:\Users\abahnemann\Desktop\AE2 VS\CustomDLL\JQueryDatepicker.pdb
+C:\Users\abahnemann\Downloads\Exercise\Exercise\JQueryDatepicker\obj\Debug\JQueryDatepicker.dll
+C:\Users\abahnemann\Downloads\Exercise\Exercise\JQueryDatepicker\obj\Debug\JQueryDatepicker.pdb
