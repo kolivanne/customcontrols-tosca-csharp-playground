@@ -12,7 +12,3 @@ Having issues resolving references when building the project?
 Check out this article:
 
 https://devblogs.microsoft.com/devops/reference-could-not-be-resolved-error-when-validating-your-architecture-using-visual-studio-architecture-modeling-tools/
-
-Added a PDF file with some more explanations/ hints foreach obstacle.
-Have fun programming!
-
